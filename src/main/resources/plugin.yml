@@ -4,4 +4,6 @@ api-version: 1.12.2
 description: Plugin to add some content to brunoxkk0 servers
 author: brunoxkk0
 
+depend: [ServerCore]
+
 main: br.com.brunoxkk0.serverexpansion.ServerExpansion
