@@ -21,7 +21,7 @@ public class ClearChat implements CommandImplementable {
             Bukkit.broadcastMessage("  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n");
         }
 
-        Bukkit.broadcastMessage("§eO chat foi limpor por §6" + commandSender.getName() + "§e.");
+        Bukkit.broadcastMessage("§eO chat foi limpo por §6" + commandSender.getName() + "§e.");
 
         return true;
     }
